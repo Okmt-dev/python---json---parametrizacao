@@ -1,0 +1,16 @@
+{
+  "formulario": [
+    {
+      "id": 1,
+      "nome": "Nome completo",
+      "tipo": "texto",
+      "obrigatorio": true
+    },
+    {
+      "id": 2,
+      "nome": "Email",
+      "tipo": "email",
+      "obrigatorio": true
+    }
+  ]
+}
